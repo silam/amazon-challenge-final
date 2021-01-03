@@ -20,20 +20,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## React Components Design
 
-**Main Login Page**<br />
+**1-Main Login Page**<br />
 ![Amazon Login](login.png?raw=true "Amazon Login")
 
 
-**Main Home Page**<br />
+**2-Main Home Page**<br />
 ![Amazon Home](Home.png?raw=true "Amazon Home")
 
-Checkout Page<br />
+**3-Checkout Page**<br />
 ![Amazon Checkout](Checkout.png?raw=true "Amazon Checkout")
 
-Payment Page<br />
+**4-Payment Page**<br />
 ![Amazon Payment](Payment.png?raw=true "Amazon Payment")
 
-Order Complete Page<br />
+**5-Order Complete Page**<br />
 ![Amazon OrderPaid](OrderPaid.png?raw=true "Amazon OrderPaid")
 
 
