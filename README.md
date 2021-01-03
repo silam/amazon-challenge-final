@@ -26,7 +26,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Amazon Home](Home.png?raw=true "Amazon Home")
 ![Amazon Checkout](Checkout.png?raw=true "Amazon Checkout")
 ![Amazon Payment](Payment.png?raw=true "Amazon Payment")
-![Amazon Login](login.png?raw=true "Amazon Login")
+![Amazon OrderPaid](OrderPaid.png?raw=true "Amazon OrderPaid")
 
 
 ## Available Scripts
