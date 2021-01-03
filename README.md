@@ -38,6 +38,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 **5-Order Complete Page**<br />
 ![Amazon OrderPaid](OrderPaid.png?raw=true "Amazon OrderPaid")
 
+## Redux Diagram for basket storage
+
+![Amazon Redux](amazon redux.png?raw=true "Amazon Redux")
 
 ## Available Scripts
 
