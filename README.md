@@ -103,3 +103,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### How to run locally
+1 - CD to amamzon-challenage-final <br />
+To Run the client<br />
+npm install <br />
+npm start <br />
+
+2-To Run the Node Server<br />
+cd functions<br />
+then <br />
+node index.js
