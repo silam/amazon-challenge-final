@@ -23,6 +23,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Amazon Login](login.png?raw=true "Amazon Login")
 
+![Amazon Home](home.png?raw=true "Amazon Home")
+![Amazon Login](login.png?raw=true "Amazon Login")
+![Amazon Login](login.png?raw=true "Amazon Login")
+![Amazon Login](login.png?raw=true "Amazon Login")
+
 
 ## Available Scripts
 
