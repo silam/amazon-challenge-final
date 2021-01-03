@@ -8,8 +8,9 @@ Host the web application on Firebase.
 Use Stripe as payment platform
 Use Fire Store as cloud database
 
+## High Level Architecture
 
-![ReactJS Resume Website Template](Amazon.png?raw=true "ReactJS Resume Website Template")
+![Amazon Ecommerce Fake](Amazon.png?raw=true "Amazon Ecommerce Fake")
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
