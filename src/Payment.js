@@ -67,7 +67,7 @@ function Payment() {
             setProcessing(false)
 
             dispatch({
-                type: 'EMPTY_BASKET'
+                type: ''
             })
 
             history.replace('/orders')
