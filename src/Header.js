@@ -14,13 +14,12 @@ function Header() {
       auth.signOut();
     }
   }
-
   return (
     <div className="header">
       <Link to="/">
         <img
           className="header__logo"
-          src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
+          src="https://images-na.ssl-images-amazon.com/images/G/01/IMDbTV/gateway/ShrekForeverAfter/GW_DHERO_ShrekForeverAfter_1500x600_EN-US_61813_V1._CB414148282_.jpg"
         />
       </Link>
 
