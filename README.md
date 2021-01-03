@@ -22,7 +22,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Main Login Page<br />
 ![Amazon Login](login.png?raw=true "Amazon Login")
-Main Hoome Page<br />
+
+
+Main Home Page<br />
 ![Amazon Home](Home.png?raw=true "Amazon Home")
 
 Checkout Page<br />
