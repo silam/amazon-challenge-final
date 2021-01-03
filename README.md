@@ -3,7 +3,9 @@ https://www.youtube.com/watch?v=-UyTvgZIfKE&feature=youtu.be&fbclid=IwAR0l532dyk
 
 ## Technology Stack
 Front end web application uses React, Redux, React State Hooks, React Effect Hook, Modern Javascripts, CSS, HTML5<br />
+
 Back End uses Express as web server<br />
+
 Host the web application on Firebase. <br />
 
 Use Stripe as payment platform<br />
@@ -106,7 +108,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 ### How to run locally
-1 - CD to amamzon-challenage-final <br />
+1 - CD to amazon-challenage-final <br />
 To Run the client<br />
 npm install <br />
 npm start <br />
