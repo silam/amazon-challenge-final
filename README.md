@@ -9,6 +9,9 @@ Use Stripe as payment platform
 Use Fire Store as cloud database
 
 
+![ReactJS Resume Website Template](Amazon.png?raw=true "ReactJS Resume Website Template")
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
