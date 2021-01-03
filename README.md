@@ -18,6 +18,12 @@ Use Fire Store as cloud database<br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## React Components Design
+
+
+![Amazon Login](login.png?raw=true "Amazon Login")
+
+
 ## Available Scripts
 
 In the project directory, you can run:
