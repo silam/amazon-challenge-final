@@ -2,11 +2,14 @@
 https://www.youtube.com/watch?v=-UyTvgZIfKE&feature=youtu.be&fbclid=IwAR0l532dyk8Tp4IK1JM9X6MUOsN3ZL7svoOrr2vVb2phMCsCQg81YwXpLsY
 
 ## Technology Stack
-Front end web application uses React, Redux, React State Hooks, React Effect Hook, Modern Javascripts, CSS, HTML5
-Back End uses Express as web server
-Host the web application on Firebase.
-Use Stripe as payment platform
-Use Fire Store as cloud database
+Front end web application uses React, Redux, React State Hooks, React Effect Hook, Modern Javascripts, CSS, HTML5<br />
+Back End uses Express as web server<br />
+Host the web application on Firebase. <br />
+
+Use Stripe as payment platform<br />
+
+Use Fire Store as cloud database<br />
+
 
 ## High Level Architecture
 
