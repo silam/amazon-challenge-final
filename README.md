@@ -44,7 +44,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Redux Diagram for basket storage
 
-![Amazon Redux](AmazoncomponentsTree.png?raw=true "Amazon Redux")
+![Amazon Component Tree Diagram](AmazoncomponentsTree.png?raw=true "Amazon Component Tree Diagram")
 
 
 
