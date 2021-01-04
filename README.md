@@ -42,6 +42,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Amazon Redux](amazonredux.png?raw=true "Amazon Redux")
 
+## Redux Diagram for basket storage
+
+![Amazon Redux](AmazoncomponentsTree.png?raw=true "Amazon Redux")
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
