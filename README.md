@@ -1,6 +1,11 @@
 ## Demo how the project works by going to 
 https://www.youtube.com/watch?v=-UyTvgZIfKE&feature=youtu.be&fbclid=IwAR0l532dyk8Tp4IK1JM9X6MUOsN3ZL7svoOrr2vVb2phMCsCQg81YwXpLsY
 
+## Please read update for new features added to this open source
+Install docker for elastic search<br />
+create yml file for 3 elastic search nodes<br />
+run docker-compose up<br />
+
 ## Technology Stack
 Front end web application uses React, Redux, React State Hooks, React Effect Hook, Modern Javascripts, CSS, HTML5<br />
 
